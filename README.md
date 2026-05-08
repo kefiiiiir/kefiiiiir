@@ -19,7 +19,7 @@ I'm a 15-year-old gameplay programmer specializing in Unreal Engine 5 and C++. I
 
 ---
 
-### 🚧 Projects
+### 🚧 Projects (Clickable links)
 [![StealRooms](https://img.shields.io/badge/StealRooms-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://kefirstudioss.itch.io/stealrooms)
 [![PoolRooms](https://img.shields.io/badge/PoolRooms-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](https://kefirstudioss.itch.io/poolrooms)
 
