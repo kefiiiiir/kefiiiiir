@@ -2,7 +2,7 @@
 
 **`Unreal Engine 4/5 System & Gameplay programmer `**
 
-I'm a 15-year-old gameplay programmer specializing in Unreal Engine 5 and C++. I started with UE4 at age 11 and have spent the last 4 years building gameplay systems, optimization pipelines, and multiplayer-focused mechanics — mainly for horror extraction games inspired by the Backrooms genre.
+I'm a 15-year-old gameplay programmer specializing in Unreal Engine 5 and C++. I started with UE4 at age 11 and have spent the last 4 years building gameplay systems and multiplayer-focused mechanics — mainly for horror extraction games inspired by the Backrooms genre.
 
 ---
 
@@ -31,4 +31,4 @@ I'm a 15-year-old gameplay programmer specializing in Unreal Engine 5 and C++. I
 
 My main areas are gameplay programming and optimization — from physics interaction systems and gameplay mechanics to replication-focused architecture and rapid prototyping. I primarily work in a small 2-person team where I handle the technical side of development while collaborating closely with a level designer.
 Currently, I’m studying advanced networking concepts including Replication Graph and the Gameplay Ability System (GAS), while continuing to improve my multiplayer and engine-level understanding.
-One of my largest projects is a Backrooms-style extraction game where I optimized performance from ~12 FPS to 120 FPS on an RTX 3060 without sacrificing visual quality. I enjoy reverse engineering mechanics from games, rebuilding systems from scratch, and finding performant solutions to complex gameplay problems.
+One of my largest projects is BackroomsRepo - a Backrooms-style extraction game. I implemented the core gameplay systems in the project, including player interaction, inventory, AI behavior, and replication logic. The level designer focused on content and layout. I enjoy reverse engineering mechanics from games, rebuilding systems from scratch.
