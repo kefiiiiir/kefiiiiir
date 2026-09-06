@@ -15,10 +15,10 @@
 
 I started building in UE4 at 11, and since then I've ended up covering a bit of everything around a game: gameplay and systems programming in C++, networked multiplayer architecture, localization tooling, and — outside of Unreal entirely — my own open-source visual novel engine written from scratch in JavaScript and Python. I like owning the full pipeline rather than staying in one lane.
 
-- 🎮 Building **BackroomsRepo**, a first-person extraction-horror game shipped in early form as *StealRooms*
-- 🧠 Prototyping a networked **Gameplay Ability System** with a Replication Graph for multiplayer
-- 🧩 Maintaining **VNEngine**, an open-source, dependency-free visual novel engine
-- 🌐 Building UE tooling for multi-language localization (audio + UI)
+- Building **BackroomsRepo**, a first-person extraction-horror game shipped in early form as *StealRooms*
+- Prototyping a networked **Gameplay Ability System** with a Replication Graph for multiplayer
+- Maintaining **VNEngine**, an open-source, dependency-free visual novel engine
+- Building UE tooling for multi-language localization (audio + UI)
 
 <br>
 
