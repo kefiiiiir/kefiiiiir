@@ -28,11 +28,3 @@
   <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=EDEDED" alt="Git">
   <img src="https://img.shields.io/badge/GitHub%20Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=EDEDED" alt="GitHub Actions">
 </div>
-
-<img src="assets/hdr-info.svg" width="100%" alt="Custom info box">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kefiiiiir&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Lifetime&hide=issues&bg_color=080808&title_color=FFFFFF&text_color=8E8E8E&icon_color=C9C9C9&border_color=1E1E1E&ring_color=FFFFFF&border_radius=0&card_width=1200" width="100%" alt="GitHub statistics for kefiiiiir">
-</div>
-
-<img src="assets/rule.svg" width="100%" alt="">
