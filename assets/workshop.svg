@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 262" width="1200" height="262" role="img">
+<style>
+  .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  .lbl{font-size:15px;letter-spacing:3.2px;fill:#5A5A5A;font-weight:600}
+  .ttl{font-size:34px;letter-spacing:-0.4px;fill:#FFFFFF;font-weight:700}
+  .sub{font-size:19px;fill:#8E8E8E}
+  .met{font-size:14px;letter-spacing:2.4px;fill:#5A5A5A;font-weight:600}
+  .num{font-size:19px;letter-spacing:0.4px;fill:#C9C9C9}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  
+</style>
+<rect width="1200" height="262" fill="#080808"/><rect x="0.5" y="0.5" width="1199" height="261" fill="none" stroke="#1E1E1E"/><text class="s lbl" x="34" y="44">WORKSHOP SHOWCASE</text><line x1="264.8" y1="39" x2="1166" y2="39" stroke="#1E1E1E" stroke-width="1"/><rect x="34" y="68" width="258" height="162" fill="#0E0E0E" stroke="#1E1E1E"/><g fill="none" stroke="#3E3E3E" stroke-width="1.2"><rect x="80.4" y="145.8" width="165.1" height="61.6"/><rect x="80.4" y="126.8" width="72.7" height="19"/><circle cx="163.0" cy="113.4" r="21.1"/></g><rect x="92.4" y="158.8" width="107.3" height="3" fill="#2A2A2A"/><rect x="92.4" y="170.8" width="124.2" height="3" fill="#2A2A2A"/><rect x="92.4" y="182.8" width="70.6" height="3" fill="#2A2A2A"/><text class="s ttl" x="330" y="112">VNEngine</text><text class="s sub" x="330" y="150">Code-first visual novel engine. HTML and JS, packaged to an executable.</text><line x1="330" y1="178" x2="1166" y2="178" stroke="#1E1E1E"/><text class="s met" x="330" y="206">RELEASES</text><text class="s num" x="330" y="232">5</text><text class="s met" x="554" y="206">LATEST</text><text class="s num" x="554" y="232">v0.2.2</text><text class="s met" x="778" y="206">TOOLING</text><text class="s num" x="778" y="232">Python + Node</text></svg>

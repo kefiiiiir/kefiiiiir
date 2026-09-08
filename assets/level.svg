@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 154" width="1200" height="154" role="img">
+<style>
+  .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  .lbl{font-size:15px;letter-spacing:3.2px;fill:#5A5A5A;font-weight:600}
+  .ttl{font-size:34px;letter-spacing:-0.4px;fill:#FFFFFF;font-weight:700}
+  .sub{font-size:19px;fill:#8E8E8E}
+  .met{font-size:14px;letter-spacing:2.4px;fill:#5A5A5A;font-weight:600}
+  .num{font-size:19px;letter-spacing:0.4px;fill:#C9C9C9}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  
+  .big{font-size:56px;font-weight:800;fill:#FFFFFF;letter-spacing:-2px}
+  .rcap{font-size:12px;letter-spacing:2.6px;fill:#4E4E4E;font-weight:600}
+  .cap{font-size:14px;letter-spacing:3px;fill:#5A5A5A;font-weight:600}
+  .val{font-size:30px;font-weight:700;fill:#D8D8D8;letter-spacing:-0.5px}
+
+</style>
+<rect width="1200" height="154" fill="#080808"/><rect x="0.5" y="0.5" width="1199" height="153" fill="none" stroke="#1E1E1E"/><circle cx="96" cy="66" r="42" fill="none" stroke="#1E1E1E" stroke-width="3"/><circle cx="96" cy="66" r="42" fill="none" stroke="#FFFFFF" stroke-width="3" transform="rotate(-90 96 66)" stroke-dasharray="263.9" stroke-dashoffset="79.2"><animate attributeName="stroke-dashoffset" from="263.9" to="79.2" dur="1.7s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.16 1 0.3 1"/></circle><text class="s big" x="96" y="85" text-anchor="middle">10</text><text class="s rcap" x="96" y="132" text-anchor="middle">REPOSITORIES</text><line x1="196" y1="28" x2="196" y2="126" stroke="#1E1E1E"/><text class="s cap" x="246" y="62">RELEASES PUBLISHED</text><text class="s val" x="246" y="104">5</text><line x1="530" y1="42" x2="530" y2="110" stroke="#1E1E1E"/><text class="s cap" x="566" y="62">LATEST TAG</text><text class="s val" x="566" y="104">v0.2.2</text><line x1="850" y1="42" x2="850" y2="110" stroke="#1E1E1E"/><text class="s cap" x="886" y="62">STACK</text><text class="s val" x="886" y="104">C++ &#183; JS &#183; PY</text></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 412" width="1200" height="412" role="img">
+<style>
+  .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
+  .m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+  .lbl{font-size:15px;letter-spacing:3.2px;fill:#5A5A5A;font-weight:600}
+  .ttl{font-size:34px;letter-spacing:-0.4px;fill:#FFFFFF;font-weight:700}
+  .sub{font-size:19px;fill:#8E8E8E}
+  .met{font-size:14px;letter-spacing:2.4px;fill:#5A5A5A;font-weight:600}
+  .num{font-size:19px;letter-spacing:0.4px;fill:#C9C9C9}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  
+  .an{font-size:23px;font-weight:700;fill:#FFFFFF;letter-spacing:-0.2px}
+  .ad{font-size:16px;fill:#7E7E7E}
+  .at{font-size:14px;letter-spacing:2px;fill:#5A5A5A}
+
+</style>
+<rect width="1200" height="412" fill="#080808"/><rect x="0.5" y="0.5" width="1199" height="411" fill="none" stroke="#1E1E1E"/><text class="s lbl" x="34" y="46">RARE ACHIEVEMENT SHOWCASE</text><line x1="364.0" y1="41" x2="1166" y2="41" stroke="#1E1E1E" stroke-width="1"/><g transform="translate(34 90)"><rect x="0.5" y="0.5" width="31" height="31" fill="none" stroke="#2E2E2E"/><rect x="9" y="9" width="14" height="14" fill="#FFFFFF"/></g><text class="s an" x="86" y="112">Saves survive a rewrite</text><text class="s ad" x="86" y="138">Position stored as label plus offset behind a structural digest, so editing prose never invalidates a save.</text><text class="m at" x="1166" y="112" text-anchor="end">VNEngine v0.2</text><line x1="34" y1="152" x2="1166" y2="152" stroke="#1E1E1E"/><g transform="translate(34 168)"><rect x="0.5" y="0.5" width="31" height="31" fill="none" stroke="#2E2E2E"/><rect x="9" y="9" width="14" height="14" fill="#FFFFFF"/></g><text class="s an" x="86" y="190">Ships as a desktop binary</text><text class="s ad" x="86" y="216">Native window through pywebview, two build profiles, assets sealed into a .pak beside the executable.</text><text class="m at" x="1166" y="190" text-anchor="end">VNEngine v0.2.1</text><line x1="34" y1="230" x2="1166" y2="230" stroke="#1E1E1E"/><g transform="translate(34 246)"><rect x="0.5" y="0.5" width="31" height="31" fill="none" stroke="#2E2E2E"/><rect x="9" y="9" width="14" height="14" fill="#FFFFFF"/></g><text class="s an" x="86" y="268">Validates the script at boot</text><text class="s ad" x="86" y="294">Duplicate labels, unknown jump targets and unreachable ops are reported without ever halting the game.</text><text class="m at" x="1166" y="268" text-anchor="end">VNEngine v0.2</text><line x1="34" y1="308" x2="1166" y2="308" stroke="#1E1E1E"/><g transform="translate(34 324)"><rect x="0.5" y="0.5" width="31" height="31" fill="none" stroke="#2E2E2E"/><rect x="9" y="9" width="14" height="14" fill="#FFFFFF"/></g><text class="s an" x="86" y="346">Abilities over a replication graph</text><text class="s ad" x="86" y="372">Gameplay Ability System routed through Replication Graph instead of the default relevancy path.</text><text class="m at" x="1166" y="346" text-anchor="end">GAS_RepGraph</text></svg>
