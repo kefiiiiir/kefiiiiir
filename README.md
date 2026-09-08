@@ -1,62 +1,38 @@
-<div align="center">
+<a href="https://github.com/kefiiiiir?tab=repositories"><img src="assets/artwork.svg" width="100%" alt="kefiiiiir — Unreal Engine 5, systems and gameplay, C++"></a>
 
-# Nicolaas V.
-### Game Systems & Tools Programmer
+<img src="assets/level.svg" width="100%" alt="10 repositories, 5 releases published, latest tag v0.2.2, stack C++ / JS / Python">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=Game+Systems+%26+Tools+Programmer;UE5+multiplayer+systems+for+horror+extraction+games;Building+my+own+engines+and+tooling+on+the+side;In+Unreal+Engine+since+age+11" alt="Typing SVG" />
+<a href="https://github.com/kefiiiiir/BackroomsRepo"><img src="assets/favorite.svg" width="100%" alt="Favorite project — BackroomsRepo, an Unreal Engine 5 gameplay project in C++"></a>
 
-📍 Russia &nbsp;·&nbsp; 🎮 4+ years building in Unreal Engine &nbsp;·&nbsp; 🛠️ C++ · Python · JavaScript
+<a href="https://github.com/kefiiiiir/VNEngine/releases"><img src="assets/workshop.svg" width="100%" alt="Workshop showcase — VNEngine, a code-first visual novel engine, 5 releases, latest v0.2.2"></a>
 
-</div>
-
-<br>
-
-## About
-
-I started building in UE4 at 11, and since then I've ended up covering a bit of everything around a game: gameplay and systems programming in C++, networked multiplayer architecture, localization tooling, and — outside of Unreal entirely — my own open-source visual novel engine written from scratch in JavaScript and Python. I like owning the full pipeline rather than staying in one lane.
-
-- Building **BackroomsRepo**, a first-person extraction-horror game shipped in early form as *StealRooms*
-- Prototyping a networked **Gameplay Ability System** with a Replication Graph for multiplayer
-- Maintaining **VNEngine**, an open-source, dependency-free visual novel engine
-- Building UE tooling for multi-language localization (audio + UI)
-
-<br>
-
-## Tech Stack
-
-**Engines & Languages**
-
-![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-161B22?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=white) ![Perforce](https://img.shields.io/badge/Perforce-161B22?style=for-the-badge&logo=perforce&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-161B22?style=for-the-badge&logo=jira&logoColor=white) ![Rider](https://img.shields.io/badge/Rider-161B22?style=for-the-badge&logo=rider&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-161B22?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<br>
-
-## Featured Projects
-
-| Project | What it is | Built with |
-|:--|:--|:--|
-| [**BackroomsRepo**](https://github.com/kefiiiiir/BackroomsRepo) | First-person horror extraction game (*StealRooms*) — interaction physics, inventory, localized audio, early monster-AI systems | C++ · UE5.3 |
-| [**GAS_RepGraph**](https://github.com/kefiiiiir/GAS_RepGraph) | Networked Gameplay Ability System prototype — attribute replication over a Replication Graph, full server/client init flow | C++ · UE5.3+ |
-| [**Localized-Audio-Component**](https://github.com/kefiiiiir/Localized-Audio-Component) | Drop-in UE component that auto-selects voice/SFX by the game's active language | C++ |
-| [**VNEngine**](https://github.com/kefiiiiir/VNEngine) | Dependency-free, code-first visual novel engine that packages projects to a standalone `.exe` (Apache-2.0) | JavaScript · Python |
-
-🎮 Shipped **StealRooms** and **PoolRooms**, playable on itch.io.
-
-<br>
-
-## GitHub Stats
+<img src="assets/hdr-items.svg" width="100%" alt="Item showcase">
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=kefiiiiir&theme=tokyonight&hide_border=true&border_radius=8" width="49%" alt="GitHub Streak" />
+  <a href="https://github.com/kefiiiiir/BackroomsRepo"><img src="assets/item-1.svg" width="49%" alt="BackroomsRepo — gameplay systems for an Unreal Engine 5 project, C++"></a>
+  <a href="https://github.com/kefiiiiir/VNEngine"><img src="assets/item-2.svg" width="49%" alt="VNEngine — visual novel engine that packages to a desktop app, JavaScript"></a>
+  <a href="https://github.com/kefiiiiir/GAS_RepGraph"><img src="assets/item-3.svg" width="49%" alt="GAS_RepGraph — Ability System replicated through Replication Graph, C++"></a>
+  <a href="https://github.com/kefiiiiir/Localized-Audio-Component"><img src="assets/item-4.svg" width="49%" alt="Localized-Audio-Component — audio that follows the active locale in Unreal, C++"></a>
 </div>
 
-<br>
+<a href="https://github.com/kefiiiiir/VNEngine/releases"><img src="assets/achievements.svg" width="100%" alt="Rare achievement showcase — saves survive a rewrite, ships as a desktop binary, validates the script at boot, abilities over a replication graph"></a>
 
-## Credits
+<img src="assets/hdr-badges.svg" width="100%" alt="Badge collection">
 
-@YarNise
+<div align="center">
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0A0A0A?style=flat-square&logo=unrealengine&logoColor=EDEDED" alt="Unreal Engine">
+  <img src="https://img.shields.io/badge/C%2B%2B-0A0A0A?style=flat-square&logo=cplusplus&logoColor=EDEDED" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=EDEDED" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=EDEDED" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=EDEDED" alt="HTML5">
+  <img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=EDEDED" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=EDEDED" alt="GitHub Actions">
+</div>
 
-<br>
+<img src="assets/hdr-info.svg" width="100%" alt="Custom info box">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kefiiiiir&show_icons=true&include_all_commits=true&rank_icon=github&custom_title=Lifetime&hide=issues&bg_color=080808&title_color=FFFFFF&text_color=8E8E8E&icon_color=C9C9C9&border_color=1E1E1E&ring_color=FFFFFF&border_radius=0&card_width=1200" width="100%" alt="GitHub statistics for kefiiiiir">
+</div>
+
+<img src="assets/rule.svg" width="100%" alt="">
